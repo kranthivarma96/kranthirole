@@ -1,0 +1,2 @@
+# kranthirole
+installing pkgs
